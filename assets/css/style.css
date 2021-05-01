@@ -1,0 +1,94 @@
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+}
+
+
+
+#tarjetas {
+  padding-top: 20px !important;
+  padding-left: 37px;
+  padding-right: 37px;
+  padding-bottom: 36.19px;
+}
+
+
+ }
+
+
+.card-deck .card {
+  margin-bottom: 26.19px !important;
+}
+
+h5.card-title {
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 31px;
+}
+p.card-text {
+  font-size: 16px;
+  font-weight: normal;
+}
+div.card-body {
+  padding-top: 22.21px;
+  padding-left: 15.19px;
+  padding-right: 15.19px;
+}
+
+
+
+
+
+
+#btn-footer {
+
+    background: #FE2E2E;
+
+}
+
+#btn-footer {
+color: white;
+
+}
+
+
+.btn {
+
+    margin-top : 20px ;
+
+}
+
+
+
+.red {
+
+    background: #FE2E2E;
+    
+}
+
+
+.h6 {
+
+  font-family: 'Open Sans', sans-serif;
+  font-stretch: extra-expanded;
+}
+
+.oscuro {
+
+    margin-top : 0px ;
+    padding : 10px ;
+
+}
+
+
+    .oscuro {
+    background : #424242 ;
+    color : #ffffff ;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    }
+
+section , footer {
+    margin-top : 0px ;
+    padding : 40px ;
+
+}
